@@ -43,3 +43,6 @@ else:
 These lines determine the overall sentiment of the text based on its polarity score. If the polarity score is greater than 0, the text is considered positive. If the polarity score is less than 0, the text is considered negative. If the polarity score is exactly 0, the text is considered neutral.
 
 By following these steps, you can analyze the sentiment of text using TextBlob in Python. Each step contributes to loading the text, analyzing its sentiment, and presenting the results.
+
+OUTPUT:
+The text is positive.
